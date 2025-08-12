@@ -241,6 +241,6 @@ def update_output_div(date, hour, proy):
         return plot
 
 
-# Run the server
+# Run the server jijiji
 if __name__ == "__main__":
     app.run(debug=True)
